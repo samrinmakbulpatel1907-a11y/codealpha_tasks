@@ -1,0 +1,16 @@
+Product,Category,Quantity,UnitPrice,Sales
+Laptop,Electronics,2,50000,100000
+Mouse,Accessories,10,500,5000
+Keyboard,Accessories,5,1500,7500
+Laptop,Electronics,1,50000,50000
+Monitor,Electronics,3,12000,36000
+Mouse,Accessories,8,500,4000
+Keyboard,Accessories,4,1500,6000
+Laptop,Electronics,2,50000,100000
+Monitor,Electronics,2,12000,24000
+Mouse,Accessories,12,500,6000
+Laptop,Electronics,1,50000,50000
+Keyboard,Accessories,6,1500,9000
+Monitor,Electronics,2,12000,24000
+Mouse,Accessories,10,500,5000
+Laptop,Electronics,1,50000,50000
